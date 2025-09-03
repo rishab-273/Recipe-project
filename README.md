@@ -5,6 +5,7 @@ HTML, CSS, JavaScript
 LocalStorage (for saving recipes locally)
 
 Responsive design for desktop
+
 🚀 How to Use:
 Clone the repository
 
