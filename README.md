@@ -1,14 +1,14 @@
 # Recipe-project
 Technologies Used:
-HTML, CSS, JavaScript
+* HTML, CSS, 
 
-LocalStorage (for saving recipes locally)
+* LocalStorage (for saving recipes locally)
 
-Responsive design for desktop
+* Responsive design for desktop
 
 🚀 How to Use:
-Clone the repository
+* Clone the repository
 
-Open index.html in your browser
+* Open index.html in your browser
 
-Start adding your favorite recipes!
+* Start adding your favorite recipes!
